@@ -1,6 +1,6 @@
 <h1>Pacific Trails Resort</h1>
 
-<nav><a href="index.html">Home</a> &nbsp;</nav> 
+<b>Home &nbsp; Yurts &nbsp; Activities &nbsp; Reservations &nbsp; </b>
 
 <body>
   
